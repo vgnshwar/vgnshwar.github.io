@@ -33,4 +33,4 @@ I love turning these concepts into working solutions. That is why I built a proj
 
 The future of cybersecurity defense is not just bigger models; it is smarter teamwork between models. 
 
-<I>Reference: This approach builds upon the research detailed in "PhishDebate: An LLM-Based Multi-Agent Framework for Phishing Website Detection" (Li et al., arXiv:2506.15656).</B>
+<I>Reference: This approach builds upon the research detailed in "PhishDebate: An LLM-Based Multi-Agent Framework for Phishing Website Detection" (Li et al., arXiv:2506.15656).</I>
