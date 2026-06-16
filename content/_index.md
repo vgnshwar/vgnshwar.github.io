@@ -28,17 +28,17 @@ title: "~Vigneshwar Sundararajan"
 <div class="pillar">
 <p class="pillar-icon">⚔</p>
 <p class="pillar-title">Offensive Security</p>
-<p>Red teaming, AD exploitation, CVE research, CTFs, and penetration testing with a developer mindset.</p>
+<p>Breaking things to build them stronger. I hunt for hidden flaws through penetration testing, exploit research, and competitive CTFs.</p>
+</div>
+<div class="pillar">
+<p class="pillar-icon">🤖</p>
+<p class="pillar-title">Agentic AI</p>
+<p>Building autonomous systems that think and act. I design multi-agent frameworks and LLM tools to automate complex workflows and boost security.</p>
 </div>
 <div class="pillar">
 <p class="pillar-icon">🛡</p>
 <p class="pillar-title">Application Security</p>
-<p>Secure SDLC, threat modeling, code review, bug bounty, OAuth/SAML hardening, and CI/CD security automation.</p>
-</div>
-<div class="pillar">
-<p class="pillar-icon">🤖</p>
-<p class="pillar-title">Security × AI</p>
-<p>Building agentic security systems — multi-agent frameworks, RAG pipelines, and LLM-powered recon tools.</p>
+<p>Securing code from the inside out. I focus on threat modeling, fixing vulnerabilities, and baking automated security directly into the pipeline.</p>
 </div>
 </div>
 
@@ -48,13 +48,13 @@ title: "~Vigneshwar Sundararajan"
 
 <div class="experience-item">
 <div class="exp-header">
-<span class="exp-company">Bright Mind Enrichment</span>
+<span class="exp-company">Street Care</span>
 <span class="exp-period">09/2025 – Present</span>
 </div>
-<p class="exp-role">Security Engineer – Orlando, FL · Remote</p>
+<p class="exp-role">Security Automation Engineer – Orlando, FL · Remote</p>
 <ul style="list-style-type: circle;">
-<li>Conducted comprehensive vulnerability assessments on the organization’s Web infrastructure, proactively identifying and remediating high-severity risks stemming from outdated plugins, themes, and legacy core versions.</li>
-<li>Hardened web assets against automated attacks by orchestrating timely patch cycles and implementing robust security configurations, effectively minimizing the attack surface and preventing the exploitation of known CVEs.</li>
+<li>Improved internal email security operations by leveraging AI tools to automate the initial analysis of reported phishing attempts. This enhanced daily productivity by quickly filtering false positives and highlighting genuine threats for immediate action.</li>
+<li>Developed an LLM-powered agentic workflow that processes meeting transcripts to automatically generate, prioritize, and assign tasks. Integrated sentiment analysis to intelligently set deadlines based on conversation tone, streamlining team workflows.</li>
 </ul>
 </div>
 
@@ -83,13 +83,13 @@ title: "~Vigneshwar Sundararajan"
 <div class="project-card">
 <p class="project-tag">Multi-Agent · Google ADK · LLM</p>
 <h4>Cross-Check</h4>
-<p>Multi-agent URL phishing detection framework using Google ADK and Mesop. Debate consensus mechanism among specialized agents minimizes hallucinations. Dockerized full-stack with automated testing.</p>
+<p>Engineered a multi-agent phishing detection framework using Google ADK and Mesop, orchestrating a debate consensus mechanism among specialized agents to minimize hallucinations, backed by a Dockerized full-stack architecture with automated testing.</p>
 <a href="https://github.com/vgnshwar/cross-check" class="project-link" target="_blank" rel="noopener noreferrer">→ GitHub</a>
 </div>
 <div class="project-card">
 <p class="project-tag">LangGraph · MCP · Recon</p>
 <h4>AdaptiveFuzz</h4>
-<p>Reconnaissance framework powered by a multi-agent system on LangGraph. Context-aware LLMs with custom MCP for agent communication. Drastically reduces manual effort in vulnerability discovery.</p>
+<p>A reconnaissance framework powered by a multi-agent system, leveraging context-aware LLMs and a custom MCP for agent communication, resulting in drastically reduced manual effort and accelerated vulnerability discovery.</p>
 <a href="https://github.com/vgnshwar/AdaptiveFuzz" class="project-link" target="_blank" rel="noopener noreferrer">→ GitHub</a>
 </div>
 <div class="project-card">
@@ -99,10 +99,22 @@ title: "~Vigneshwar Sundararajan"
 <a href="https://github.com/vgnshwar/kestrel" class="project-link" target="_blank" rel="noopener noreferrer">→ GitHub</a>
 </div>
 <div class="project-card">
+<p class="project-tag">AI · Privacy · Cryptography</p>
+<h4>Middleman</h4>
+<p>Architected a privacy-preserving local proxy for AI data using contextual substitution. Built an instruction-separation pipeline and ephemeral relay to batch LLM requests, preventing sensitive data leaks while significantly cutting API costs.</p>
+<a href="https://github.com/vgnshwar/middleman" class="project-link" target="_blank" rel="noopener noreferrer">→ GitHub</a>
+</div>
+<div class="project-card">
 <p class="project-tag">Cryptography · Cloud</p>
 <h4>Cloud Sec Encryptor</h4>
-<p>Personal tool for secure file transfers across cloud platforms. Automates encryption on upload and decryption on download, showcasing expertise in data protection and encryption engineering.</p>
+<p>Developed an end-to-end Python security tool integrating the Google Drive API via GCP. Implemented Fernet byte-level encryption, secure OAuth authentication, and automated malware scanning to ensure complete data protection for cloud storage.</p>
 <a href="https://github.com/vgnshwar/cloud-sec-encryptor" class="project-link" target="_blank" rel="noopener noreferrer">→ GitHub</a>
+</div>
+<div class="project-card">
+<p class="project-tag">Portfolio · Web</p>
+<h4>vgnshwar.github.io</h4>
+<p>The source code for my personal portfolio and blogging website, built with Hugo. It serves as a central hub for showcasing my projects, certifications, and technical write-ups.</p>
+<a href="https://github.com/vgnshwar/vgnshwar.github.io" class="project-link" target="_blank" rel="noopener noreferrer">→ GitHub</a>
 </div>
 </div>
 

@@ -563,6 +563,7 @@ img:hover {
   display: flex;
   flex-direction: column;
   transition: border-color 0.2s ease, box-shadow 0.2s ease;
+  position: relative;
 }
 
 .project-card:hover {
@@ -588,7 +589,6 @@ img:hover {
   font-size: 1rem;
   color: var(--nav-text);
   line-height: 1.55;
-  flex: 1;
   margin: 0 0 0.9rem 0;
 }
 
@@ -606,6 +606,15 @@ img:hover {
 .project-link:hover {
   color: var(--mark) !important;
   text-decoration: none !important;
+}
+
+.project-link::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
 }
 
 
