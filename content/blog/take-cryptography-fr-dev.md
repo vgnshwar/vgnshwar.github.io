@@ -26,7 +26,7 @@ The developer only needs to know the basic outcome they want, like "Standard Sig
 
 ## How It Works Practically
 
-We put a smart a 'Policy Engine' between the main code and the math.
+We put a smart 'Policy Engine' between the main code and the math.
 
 When a developer writes their code, they simply pass the data and the key's nickname to the API. Behind the scenes, the system checks the central policy managed by the security engineers. The policy looks at the developer's requested scope and automatically assigns the safest, most current algorithm to do the job.
 
