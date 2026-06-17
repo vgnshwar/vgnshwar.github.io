@@ -4,8 +4,10 @@
 </a>
 {{ else if and (eq .Kind "section") (eq .Section "blog") }}
 <a href="{{ "" | relURL }}" class="blog-section-title">// field notes</a>
+{{ else if and (eq .Kind "section") (hasPrefix .Section "secret") }}
+<!-- Hide back button on secret listing pages, title is in content -->
 {{ else }}
-<a href="{{ "" | relURL }}" class="back-home">← HOME</a>
+<a href="#" onclick="window.history.back(); return false;" class="back-home">← BACK</a>
 {{ end }}
 
 <!-- Open Graph for social preview -->

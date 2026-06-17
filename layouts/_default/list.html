@@ -1,5 +1,6 @@
 {{ define "main" }}
 <content>
+  {{ .Content }}
   {{ if .Data.Singular }}
   <h3 style="margin-bottom:0">Filtering for 
     <span class="tag">
@@ -26,9 +27,9 @@
     <li>
       No posts yet
     </li>
-    {{ end }}
+    {{ end }} 
   </ul>
-  {{ if not .Data.Singular }}
+  {{ if and (not .Data.Singular) (not .Params.hideTags) }}
   <small>
     <div class="tags">
       {{ range .Site.Taxonomies.tags }}
