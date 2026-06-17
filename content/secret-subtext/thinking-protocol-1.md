@@ -52,23 +52,25 @@ Boy: I don't know, we gotta bring him back. He is my friend and I owe him so muc
 
 Amar: [ THINKING... TAKING THE MIKE NEAR TO HIS COMPUTER SCREEN ]
 
-––––––– AMAR: HELLO EVERYONE!! ––––––– THE KID HERE LOSES HIS CIVILIAN FRIEND IN THE GRAVEYARD!!!
+––––––– AMAR: HELLO EVERYONE!! 
 
-––––––– GROUPS: WHAAAAT?! GRAVEYARD?? HOW? WHY SOMEONE LIKE A CITIZEN WENT THERE? HOW COME?
+––––––– THE KID HERE LOSES HIS CIVILIAN FRIEND IN THE GRAVEYARD!!! 
 
-––––––– AMAR: LISTEN PEOPLE, IF YOU CANNOT HELP, YOU CAN DO YOUR JOB..
+––––––– GROUPS: WHAAAAT?! GRAVEYARD?? HOW? WHY SOMEONE LIKE A CITIZEN WENT THERE? HOW COME? 
 
-––––––– GROUPS: FINE!! I'LL DO MY JOB!
+––––––– AMAR: LISTEN PEOPLE, IF YOU CANNOT HELP, YOU CAN DO YOUR JOB.. 
 
-––––––– AMAR: [ SMIRKING QUIETLY, EXPECTING THIS RESPONSE ] WHAT???
+––––––– GROUPS: FINE!! I'LL DO MY JOB! 
 
-––––––– GROUPS: WE DON'T WANNA TAKE A RISK. BOSS WOULD BE FURIOUS IF WE TOUCH "GRAVEYARD"!
+––––––– AMAR: [ SMIRKING QUIETLY, EXPECTING THIS RESPONSE ] WHAT??? 
 
-––––––– AMAR: I KNOW, I KNOW, I KNOW. BUT THE CAPTURED PERSON IS THIS KID'S FRIEND!
+––––––– GROUPS: WE DON'T WANNA TAKE A RISK. BOSS WOULD BE FURIOUS IF WE TOUCH "GRAVEYARD"! 
+
+––––––– AMAR: I KNOW, I KNOW, I KNOW. BUT THE CAPTURED PERSON IS THIS KID'S FRIEND! 
 
 ––––––– GROUPS: OHHHHH... POOR KID.
 
-––––––– AMAR: UGH... THIS WON'T WORK.
+––––––– AMAR: UGH... THIS WON'T WORK. 
 
 ********** <b>MIC MIC CHECK!! THIS IS KERNEL DIVISION 8 SPEAKING.</b> ********** \
 [ The announcement mic is suddenly ON and a Kernel is on the line ]
@@ -87,7 +89,7 @@ Boy: Agreed!!
 
 [ BOTH OF THEM WENT IN. ONLY AMAR KNOWS WHAT IS HAPPENING. EVERYONE IN THE GROUPS WERE SILENT AND AHH. ]
 
-––––––– GROUPS: How come Amar bring this news in? He must have some bond with KERNEL. He is the best here anyway...
+––––––– GROUPS: How come Amar bring this news in? He must have some bond with KERNEL. He is the best here anyway... 
 
 [ Both of them went in, Amar knew exactly WHAT he needs to do. ]
 
@@ -239,29 +241,29 @@ BOSS: Yes. I needed to capture that new surveillance truck without making noise.
 
 RUDRA: Yes, All we need is one person, I will go.
 
-BOSS: Wait. You aren't going anywhere. Vali, Martin is already positioned near the enemy side. Get him on the line.
+BOSS: Wait. You aren't going anywhere. Vali, Caner is already positioned near the enemy side. Get him on the line.
 
 Vali: ON IT!!
 
-Vali: Hey, MARTIN!
+Vali: Hey, CANER!
 
-Martin: AHHH! WHAT's up, Vali!! Did BOSS let you go that easy, that you called me hah!! I'm right in the middle of a surveillance sweep.
+Caner: [ A STEADY BREATH OVER THE COMM ] Hey Vali. Did BOSS finally give you a break? I'm deep into the surveillance sweep right now.
 
-BOSS: I am LISTENING MARTIN!
+BOSS: I am LISTENING CANER!
 
-Martin: WHAAAAT?! BOSSS!! I am sorry, VALI didn't tell me this. [ MARTIN'S TONE INSTANTLY SHIFTS FROM JOKING TO STRICT MILITARY HIERARCHY ] Standing by for orders, sir!
+Caner: BOSS!! I apologize, Vali didn't pass you on the line. [ CANER'S TONE INSTANTLY SHIFTS FROM CASUAL TO STRICT MILITARY HIERARCHY ] Standing by for orders, sir!
 
-[ RUDRA is stunned with the tone Martin has changed the moment he knew its BOSS ]
+[ RUDRA is stunned by how fast Caner's tone shifted the moment he heard BOSS voice ]
 
-BOSS: MARTIN, you are right on the edge of enemy territory outside the Graveyard. Am I right?
+BOSS: CANER, you are right on the edge of territory outside the Graveyard. Am I right?
 
-Martin: YES BOSS, 100%. Running perimeter scans.
+Caner: Yes, BOSS, 100%. Running perimeter scans.
 
 BOSS: Good! There is an unknown SANDCLOCK truck driving on the outer margin. I want you to go into their territory and take it down quietly. I need that truck... and the boy inside it... [ PAUSES FOR A SECOND ] ALIVE!!
 
-Martin: CONSIDER IT DONE!
+Caner: CONSIDER IT DONE!
 
-[ A LOUD CRASH SOUNDS ON THE MIC! BANG!! BOOM!! MARTIN IS FIGHTING FIERCELY. THEN SUDDENLY SILENCE. ]
+[ A LOUD CRASH SOUNDS ON THE MIC! BANG!! BOOM!! CANER IS FIGHTING FIERCELY. THEN SUDDENLY SILENCE. ]
 
 [ Everyone in the room fell silent. For the next twenty minutes, the only sound was Vali's fingers tapping on his screen. Rudra was biting his nails. ]
 
@@ -297,17 +299,17 @@ BOSS: [ WITHOUT BLINKING AN EYE, LOOKING AT RUDRA WITH DEEP THINKING ]
 
 Amar: That's none of your concern. Your friend is here, turn around.
 
-[ When RUDRA turn around, he saw his FRIEND walking ALIVE with some scratches, alongside MARTIN ]
+[ When RUDRA turn around, he saw his FRIEND walking ALIVE with some scratches, alongside CANER ]
 
-Martin: Hello BOSS.
+Caner: Hello BOSS.
 
 BOSS: So you of all people thinking, I am always giving Vali a work. Is that it?
 
-Martin: Holy shit! I totally forgot about that thing I said. BOSS, HEE Sorry MY BAD.
+Caner: [ RUBBING THE BACK OF HIS NECK, SLIGHTLY EMBARRASSED ] Ah, I completely forgot I said that over the open comm. My apologies, BOSS.
 
 BOSS: By the way, is everything OKAY in the MARGIN?
 
-Martin: Graveyard MARGIN is just FINE.
+Caner: Graveyard MARGIN is fully secured.
 
 [ RUDRA'S FRIEND APPROACHED BOSS ] 
 
@@ -353,7 +355,7 @@ Vali: But BOSS, this is a once in a life time opportunity. Why didn't you tell h
 
 BOSS: [ STARING DEEPLY INTO THE DISTANCE, SEEING A FUTURE NO ONE ELSE SEES ] TRUST ME, its not the TIME.
 
-Martin: [ WHISPERING TO VALI ] He is always ten steps ahead. I don't even know WHAT game he is playing anymore.
+Caner: [ WHISPERING TO VALI ] He is always ten steps ahead. I don't even know WHAT game he is playing anymore.
 
 Amar: [ NODDING SLOWLY, UNDERSTANDING THE HEAVY BURDEN BOSS CARRIES ] That's FAIR. When he makes a move, the board is already set. Alright then, I'll keep you posted BOSS.
 
