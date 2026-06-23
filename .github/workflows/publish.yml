@@ -30,10 +30,16 @@ jobs:
 
       - name: Install Hugo
         run: |
+          set -euo pipefail
           HUGO_VERSION=0.147.0
-          curl -sSL -o /tmp/hugo.tar.gz "https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_linux-amd64.tar.gz"
-          tar -xzf /tmp/hugo.tar.gz hugo
-          sudo mv hugo /usr/local/bin/hugo
+          HUGO_ARCHIVE="hugo_extended_${HUGO_VERSION}_linux-amd64.tar.gz"
+          HUGO_BASE_URL="https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}"
+          curl -sSL -o "/tmp/${HUGO_ARCHIVE}" "${HUGO_BASE_URL}/${HUGO_ARCHIVE}"
+          curl -sSL -o /tmp/hugo_checksums.txt "${HUGO_BASE_URL}/hugo_${HUGO_VERSION}_checksums.txt"
+          cd /tmp
+          sha256sum -c <(grep " ${HUGO_ARCHIVE}$" hugo_checksums.txt)
+          tar -xzf "${HUGO_ARCHIVE}" hugo
+          sudo install -m 0755 hugo /usr/local/bin/hugo
           hugo version
 
       - name: Build Hugo site
