@@ -4,7 +4,7 @@ date = '2026-06-08'
 +++
 
 
-<i>[ CONTEXT: 100 years in the future... ]</i>
+<i>[ 100 years in the future... ]</i>
 
 [ The boy is entering the room.. ]
 
@@ -72,7 +72,7 @@ Amar: [ THINKING... TAKING THE MIKE NEAR TO HIS COMPUTER SCREEN ]
 
 ––––––– AMAR: UGH... THIS WON'T WORK. 
 
-********** <b>MIC MIC CHECK!! THIS IS KERNEL DIVISION 8 SPEAKING.</b> ********** \
+<center>********* <b>MIC MIC CHECK!! THIS IS KERNEL DIVISION 8 SPEAKING.</b> ********* </center> \
 [ The announcement mic is suddenly ON and a Kernel is on the line ]
 
 KERNEL: Hello people, we as a group never ever back off from any challenges, wheather it is a survival or helping. Amar, as per your request, we understood the problem and planning to solve this in smooth way. Please bring the person in.
@@ -185,7 +185,7 @@ BOSS: Hah!! where this formality comes from? hah.
 
 Amar: BOSS, this is RUDRA.
 
-[ <u>BOSS AND RUDRA MEETS</u> ]
+<center>********* <b>BOSS AND RUDRA MEETS</b> *********</center>
 
 RUDRA: Hello BOSS, I am RUDRA, Terminal Cadet.
 
@@ -360,3 +360,5 @@ Caner: [ WHISPERING TO VALI ] He is always ten steps ahead. I don't even know WH
 Amar: [ NODDING SLOWLY, UNDERSTANDING THE HEAVY BURDEN BOSS CARRIES ] That's FAIR. When he makes a move, the board is already set. Alright then, I'll keep you posted BOSS.
 
 [ BOSS: EVERYONE, YOU KNOW WHAT TO DO.. KEEP GOING. WE DON'T HAVE MUCH TIME. IT'S DO OR DIE ]
+
+... TO BE CONTINUED.
