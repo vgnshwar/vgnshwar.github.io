@@ -1,0 +1,15 @@
+version: '3.8'
+
+services:
+  hugo:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: vgnshwar-blog
+    container_name: hugo_server
+    ports:
+      - "1313:1313"
+    volumes:
+      - .:/site
+    environment:
+      - HUGO_ENV=development

@@ -3,11 +3,11 @@ title = 'Secret Story'
 date = '2026-06-08'
 hideTags = true
 
-[_build]
+[build]
 list = 'never'
 render = 'always'
 
-[cascade._build]
+[cascade.build]
 list = 'local'
 render = 'always'
 +++
