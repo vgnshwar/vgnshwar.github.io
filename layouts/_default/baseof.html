@@ -22,7 +22,7 @@
   {{- $customCSS := resources.Get "css/custom.css" -}}
   {{- if $customCSS -}}
     {{- $customCSS = $customCSS | minify | fingerprint -}}
-    <link rel="stylesheet" href="{{ $customCSS.Permalink }}" integrity="{{ $customCSS.Data.Integrity }}">
+    <link rel="stylesheet" href="{{ $customCSS.RelPermalink }}">
   {{- end -}}
 
   <!-- A partial to be overwritten by the user.

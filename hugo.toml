@@ -1,4 +1,4 @@
-baseURL = "https://vgnshwar.github.io/"
+baseURL = "https://vgnshwar.rocks/"
 languageCode = "en-us"
 title = "~Vigneshwar Sundararajan"
 theme = "hugo-bearblog"
@@ -28,6 +28,6 @@ cleanDestinationDir = true
   reactionsEnabled = "1"
   emitMetadata = "0"
   inputPosition = "bottom"
-  theme = "https://vgnshwar.github.io/css/giscus.css"
+  theme = "https://vgnshwar.rocks/css/giscus.css"
   lang = "en"
   loading = "lazy"
